@@ -14,3 +14,8 @@ public class Pgm {
 	}
 
 }
+Output:
+
+Student Name:John
+Subject:Physics
+Score:90
