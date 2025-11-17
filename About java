@@ -1,0 +1,9 @@
+Java is high level,class based,object oriented programming language and it's platform independence.
+Key Features:
+1.Object oriented language
+     java is object oriented language,the core concepts like encapsulation,inhertance,polymorphism and abstraction.
+2.Platform independence
+    write once and run anywhere is achieved through the java virtual machine. Java code compiled into platform independent byte code to machine code conversion.
+3.High performance
+    java achieves high performance through the use of optimized code.
+
