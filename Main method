@@ -1,0 +1,4 @@
+The importance of main method in Java:
+ The main method in java serves as the entry point for program execution.
+when java application is run the java virtual machine specifically searches for and 
+executes this method to begin the programme operation.
