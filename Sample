@@ -1,0 +1,16 @@
+package selenium;
+
+public class Pgm {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		        String student_name="John";
+			      String subject="Physics";
+			      int score=90;
+
+			     System.out.println("Student Name:"+student_name);
+			     System.out.println("Subject:"+subject);
+			     System.out.println("Score:"+score);
+	}
+
+}
